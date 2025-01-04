@@ -34,7 +34,6 @@ Breast cancer is a significant health concern, and early diagnosis plays a vital
 - **Libraries Used**:
   - Scikit-learn  
   - NumPy, Pandas  
-  - Matplotlib, Seaborn (for visualizations, if applicable)
 
 ---
 
@@ -50,7 +49,7 @@ Breast cancer is a significant health concern, and early diagnosis plays a vital
 
 1. **Clone this Repository**:  
    ```bash
-   git clone https://github.com/YourUsername/Breast-Cancer-Prediction.git
+   git clone https://github.com/Oluwaseyiae/Breast-Cancer-Prediction.git
    
 2. **Install Required Libraries**:
 
